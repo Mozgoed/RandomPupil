@@ -1,0 +1,15 @@
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\bin\Debug\RandomPupil.exe.config
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\bin\Debug\RandomPupil.exe
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\bin\Debug\RandomPupil.pdb
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\obj\Debug\RandomPupil.csprojAssemblyReference.cache
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\obj\Debug\MainWindow.g.cs
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\obj\Debug\App.g.cs
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\obj\Debug\RandomPupil_MarkupCompile.cache
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\obj\Debug\RandomPupil_MarkupCompile.lref
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\obj\Debug\MainWindow.baml
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\obj\Debug\RandomPupil.g.resources
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\obj\Debug\RandomPupil.Properties.Resources.resources
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\obj\Debug\RandomPupil.csproj.GenerateResource.cache
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\obj\Debug\RandomPupil.csproj.CoreCompileInputs.cache
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\obj\Debug\RandomPupil.exe
+C:\Users\mozgoed123\Documents\GitHub\RandomPupil\RandomPupil\obj\Debug\RandomPupil.pdb

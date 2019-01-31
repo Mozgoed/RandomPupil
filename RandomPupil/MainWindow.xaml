@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RandomPupil"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+        Title="MainWindow" Height="335" Width="546">
+    <Grid HorizontalAlignment="Right" Margin="0,0,3.333,6.333" Width="536">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="87*"/>
+            <ColumnDefinition Width="452*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="txtPupils" TextWrapping="Wrap" Text="TextBox" FontSize="18" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" HorizontalAlignment="Left" Width="109" RenderTransformOrigin="0.5,0.5" Margin="0.333,48,0,32" Grid.Column="1"/>
+        <TextBox x:Name="txtPupilsRandom" HorizontalAlignment="Left" Height="241" Margin="198.833,26,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="186" FontSize="18" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" Grid.Column="1"/>
     </Grid>
 </Window>
